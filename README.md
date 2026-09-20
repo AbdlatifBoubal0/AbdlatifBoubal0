@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 </a>
 
 <br/>
-
+<!--
 <a href="https://github.com/YOUR_USERNAME?tab=followers"><img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github&logoColor=white&labelColor=0F0A24&color=9E00D1" alt="followers"/></a>
 <a href="https://github.com/YOUR_USERNAME?tab=repositories"><img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&logo=github&logoColor=white&labelColor=0F0A24&color=F0A850" alt="stars"/></a>
 <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=268AE2&labelColor=0F0A24&label=PROFILE+VIEWS" alt="profile views"/>
-
+-->
 <img src="./assets/divider.svg" width="100%" alt=""/>
 
 </div>
