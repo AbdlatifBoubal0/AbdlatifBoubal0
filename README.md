@@ -54,7 +54,7 @@ const me = {
 
 ## Tech Stack
 
-<div align="center">
+<div align="start">
 
 **Programming**<br/>
 <img src="https://img.shields.io/badge/Java-4C28AC?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
@@ -134,17 +134,17 @@ const me = {
 </div>
 
 <div align="center"><img src="./assets/divider.svg" width="100%" alt=""/></div>
-
+<!--
 ## Let's Connect
-
+-->
 <div align="center">
-
+<!--
 <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-E237B9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-268AE2?style=for-the-badge" alt="LinkedIn"/></a>
 <a href="https://x.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/X-4C28AC?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
 <a href="https://t.me/YOUR_HANDLE"><img src="https://img.shields.io/badge/Telegram-9E00D1?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
 <a href="https://your-portfolio.dev"><img src="https://img.shields.io/badge/Portfolio-F0A850?style=for-the-badge&logoColor=black" alt="Portfolio"/></a>
-
+-->
 <br/><br/>
 
 <img src="./assets/footer.svg" alt="Thanks for stopping by" width="100%"/>
